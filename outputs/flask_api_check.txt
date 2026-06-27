@@ -1,0 +1,4 @@
+train_status=200
+{'best_auc': 0.9770319999999999, 'best_model': 'GradientBoosting', 'columns': 11, 'data_source': 'synthetic', 'message': 'Training completed successfully', 'metrics': [{'Accuracy': 0.925, 'F1': 0.9247743229689067, 'Model': 'GradientBoosting', 'Precision': 0.9275653923541247, 'ROC_AUC': 0.9770319999999999, 'Recall': 0.922}, {'Accuracy': 0.923, 'F1': 0.9226130653266331, 'Model': 'RandomForest', 'Precision': 0.9272727272727272, 'ROC_AUC': 0.9756640000000001, 'Recall': 0.918}, {'Accuracy': 0.852, 'F1': 0.8514056224899599, 'Model': 'LogisticRegression', 'Precision': 0.8548387096774194, 'ROC_AUC': 0.920772, 'Recall': 0.848}], 'model_path': 'outputs\\best_model.pkl', 'rows': 5000}
+predict_status=200
+{'confidence_margin': 0.0796161691099424, 'model_name': 'GradientBoosting', 'predicted_class': 1, 'predicted_label': 'High CVD risk', 'risk_probability': 0.5796161691099424}

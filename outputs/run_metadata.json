@@ -1,0 +1,22 @@
+{
+  "best_model": "GradientBoosting",
+  "best_auc": 0.977032,
+  "feature_columns": [
+    "age_years",
+    "height",
+    "weight",
+    "BMI",
+    "ap_hi",
+    "ap_lo",
+    "cholesterol",
+    "gluc",
+    "smoke",
+    "alco",
+    "active",
+    "is_hypertensive",
+    "pulse_pressure",
+    "MAP",
+    "risk_factors",
+    "risk_score"
+  ]
+}

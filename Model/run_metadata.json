@@ -1,0 +1,53 @@
+{
+  "best_model": "StackingEnsemble_Tuned",
+  "best_auc": 0.962242,
+  "xgb_best_params": {
+    "n_estimators": 538,
+    "max_depth": 9,
+    "learning_rate": 0.16086226173036303,
+    "subsample": 0.7556060915663415,
+    "colsample_bytree": 0.8760571687439652,
+    "gamma": 0.36211329437379325,
+    "reg_alpha": 0.04515424587318349,
+    "reg_lambda": 0.0015346320068762521
+  },
+  "lgb_best_params": {
+    "n_estimators": 553,
+    "max_depth": 9,
+    "learning_rate": 0.28177234614610486,
+    "num_leaves": 102,
+    "subsample": 0.9291303123111647,
+    "colsample_bytree": 0.8777237742599151,
+    "reg_alpha": 0.0011614456996706841,
+    "reg_lambda": 0.005287094523796357
+  },
+  "cat_best_params": {
+    "iterations": 429,
+    "depth": 9,
+    "learning_rate": 0.2989444742004708,
+    "l2_leaf_reg": 0.006284581505820786,
+    "border_count": 66
+  },
+  "feature_columns": [
+    "age",
+    "gender",
+    "height",
+    "weight",
+    "ap_hi",
+    "ap_lo",
+    "cholesterol",
+    "gluc",
+    "smoke",
+    "alco",
+    "active",
+    "age_years",
+    "BMI",
+    "is_hypertensive",
+    "pulse_pressure",
+    "MAP",
+    "high_cholesterol",
+    "high_glucose",
+    "risk_factors",
+    "risk_score"
+  ]
+}
