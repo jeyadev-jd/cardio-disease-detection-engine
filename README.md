@@ -54,3 +54,15 @@ MODEL_ANALYSIS_REPORT.md   # Detailed model analysis report
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+---
+
+## Author
+
+**Jeyadev R** · AI/ML Engineer & Full-Stack Developer · Chennai, India
+
+- Portfolio: [jeyadev.dev](https://jeyadev.dev/projects/cardio-disease-detection-engine)
+- GitHub: [@jeyadev-jd](https://github.com/jeyadev-jd)
+- LinkedIn: [r-jeyadev](https://www.linkedin.com/in/r-jeyadev)
+
+If this project is useful to you, a ⭐ on the repo helps others find it.
